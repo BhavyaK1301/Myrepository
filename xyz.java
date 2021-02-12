@@ -6,5 +6,6 @@ public class xyz
 		{
 			System.out.println("Hello everybody");
 		}
+		System.out.println("Jai Hind");
 	}
 }
